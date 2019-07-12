@@ -66,6 +66,7 @@ class ErrorsOverview extends ReportWidgetBase
             ->where('created_at', '>', $from)
             ->where('created_at', '<', $to)
             ->whereIn('level', self::ERRORS_TO_COUNT)
+            ->groupBy('level')
             ->value('total');
     }
 }

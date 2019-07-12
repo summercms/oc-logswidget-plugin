@@ -35,5 +35,3 @@ Our goal is to bring people and technology together using open source tech like 
 ## Like this plugin?
 If you’re enjoying this error log display widget, please rate it and leave a review, to help us simplify error 
 management for more OctoberCMS fans.
-
-[Discover our main plugin that helps you manage all your OctoberCMS sites from a single dashboard](https://octobercms.com/plugin/onepilot-client)
